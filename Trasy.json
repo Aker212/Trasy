@@ -1,0 +1,29 @@
+﻿[
+  {
+    "TrasaId": 1,
+    "TrasaNazwa": "Gemini Park",
+    "TrasaOpis": "Gemini właśnie tak",
+    "TrasaX": 49.80381037113046,
+    "TrasaY": 19.050570509169127,
+    "TrasaLink": "https://www.google.com/maps/dir//49.8038104,19.0505705/@49.8038104,19.0479902,17z/data=!4m2!4m1!3e0?hl=pl-PL&entry=ttu"
+
+  },
+  {
+    "TrasaId": 2,
+    "TrasaNazwa": "UBB",
+    "TrasaOpis": "Top 1 uczelnia",
+    "TrasaX": 49.7832336,
+    "TrasaY": 19.0551629,
+    "TrasaLink": "https://www.google.com/maps/dir//49.800418,19.0314869/@49.7999004,19.0262783,16.25z/data=!4m2!4m1!3e0?hl=pl-PL&entry=ttu"
+
+
+  },
+  {
+    "TrasaId": 3,
+    "TrasaNazwa": "Hotel na Błoniach",
+    "TrasaOpis": "Chyba spanko",
+    "TrasaX": 49.7821391,
+    "TrasaY": 19.0546372,
+    "TrasaLink": "https://www.google.com/maps/dir//49.797662,18.9849404/@49.797662,18.9823601,17z/data=!4m2!4m1!3e0?hl=pl-PL&entry=ttu"
+  }
+]
