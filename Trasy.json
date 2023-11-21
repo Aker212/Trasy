@@ -14,16 +14,16 @@
     "TrasaOpis": "Top 1 uczelnia",
     "TrasaX": 49.7832336,
     "TrasaY": 19.0551629,
-    "TrasaLink": "https://www.google.com/maps/dir//49.800418,19.0314869/@49.7999004,19.0262783,16.25z/data=!4m2!4m1!3e0?hl=pl-PL&entry=ttu"
+    "TrasaLink": "https://www.google.com/maps/dir/Gemini+Park+Bielsko-Bia%C5%82a/Uniwersytet+Bielsko-Bialski,+Willowa,+Bielsko-Bia%C5%82a/@49.7941349,19.0481713,15z/data=!3m1!4b1!4m13!4m12!1m5!1m1!1s0x47169f789a96b1f9:0xfa415f93dfc7ecc3!2m2!1d19.0508527!2d49.8027336!1m5!1m1!1s0x47169fc0a7862b97:0xab58f9e2cef89ecf!2m2!1d19.0577378!2d49.7832302?hl=pl-PL&entry=ttu"
 
 
   },
   {
     "TrasaId": 3,
-    "TrasaNazwa": "Hotel na Błoniach",
-    "TrasaOpis": "Chyba spanko",
-    "TrasaX": 49.7821391,
-    "TrasaY": 19.0546372,
-    "TrasaLink": "https://www.google.com/maps/dir//49.797662,18.9849404/@49.797662,18.9823601,17z/data=!4m2!4m1!3e0?hl=pl-PL&entry=ttu"
+    "TrasaNazwa": "Szpital Wojewódzki",
+    "TrasaOpis": "Aż tak cie to boli?",
+    "TrasaX": 49.790969,
+    "TrasaY": 19.0379139,
+    "TrasaLink": "https://www.google.com/maps/dir/Uniwersytet+Bielsko-Bialski,+Willowa,+Bielsko-Bia%C5%82a/Szpital+Wojew%C3%B3dzki+w+Bielsku-Bia%C5%82ej,+aleja+Armii+Krajowej,+Bielsko-Bia%C5%82a/@49.7931712,19.0449318,15z/data=!4m13!4m12!1m5!1m1!1s0x47169fc0a7862b97:0xab58f9e2cef89ecf!2m2!1d19.0577378!2d49.7832302!1m5!1m1!1s0x47169f8e7917ab35:0x9e120f75e2c42018!2m2!1d19.0390146!2d49.7919867?hl=pl-PL&entry=ttu"
   }
 ]
